@@ -12,3 +12,7 @@ docs/
 
 # Dotenv file
 .env
+
+#we donot want to push lib and broadcast folders also
+broadcast/
+lib/
